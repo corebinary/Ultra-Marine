@@ -10,3 +10,4 @@ submersible tethered to the AI-RAFT. Dreaming up new features daily.
 - temperture sensor
 - compass for metal detection
 - rpi zero computer
+- Future projects: RAFT-WINCH, RAFT-ENV-MON
