@@ -1,0 +1,12 @@
+submersible tethered to the AI-RAFT. Dreaming up new features daily.
+- 100ft range
+- fibre optic gigE network
+- fiber/copper media converter
+- camera with tilt control - forward pointing
+- camera - downward pointing
+- ultra-sonic range sensor
+- LED spot lights
+- single thruster for spin control
+- temperture sensor
+- compass for metal detection
+- rpi zero computer
